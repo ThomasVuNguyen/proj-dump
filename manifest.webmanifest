@@ -1,1 +1,56 @@
-{"name":"BillulloNex","short_name":"BillulloNex","lang":"en-us","display":"fullscreen","orientation":"portrait","start_url":"https://billullonex.com/?utm_source=web_app_manifest","background_color":"#fff","theme_color":"#000","icons":[{"src":"/images/logo_hu0a7da3cfc536a459e063ff3797a557af_63196_48x48_resize_lanczos_3.png","sizes":"48x48","type":"image/png"},{"src":"/images/logo_hu0a7da3cfc536a459e063ff3797a557af_63196_72x72_resize_lanczos_3.png","sizes":"72x72","type":"image/png"},{"src":"/images/logo_hu0a7da3cfc536a459e063ff3797a557af_63196_96x96_resize_lanczos_3.png","sizes":"96x96","type":"image/png"},{"src":"/images/logo_hu0a7da3cfc536a459e063ff3797a557af_63196_144x144_resize_lanczos_3.png","sizes":"144x144","type":"image/png"},{"src":"/images/logo_hu0a7da3cfc536a459e063ff3797a557af_63196_192x192_resize_lanczos_3.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"/images/logo_hu0a7da3cfc536a459e063ff3797a557af_63196_512x512_resize_lanczos_3.png","sizes":"512x512","type":"image/png"}]}
+{
+  "name": "BillulloNex",
+  "short_name": "BillulloNex",
+  "lang": "en-us",
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "https://billullonex.com/?utm_source=web_app_manifest",
+  "background_color": "#fff",
+  "theme_color": "#000",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/logo_hu0a7da3cfc536a459e063ff3797a557af_63196_48x48_resize_lanczos_3.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo_hu0a7da3cfc536a459e063ff3797a557af_63196_72x72_resize_lanczos_3.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo_hu0a7da3cfc536a459e063ff3797a557af_63196_96x96_resize_lanczos_3.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo_hu0a7da3cfc536a459e063ff3797a557af_63196_144x144_resize_lanczos_3.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo_hu0a7da3cfc536a459e063ff3797a557af_63196_192x192_resize_lanczos_3.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/logo_hu0a7da3cfc536a459e063ff3797a557af_63196_512x512_resize_lanczos_3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  
+  
+}
